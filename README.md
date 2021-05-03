@@ -8,6 +8,6 @@ To be more successfull reaching your goals, this tool was built to help you defi
 
 ### Platoforms
 
-. Android  bGOAL v1.0.9
-. iOS      bGOAL v1.0.9
-. Web      bGOAL v1.0.1
+- Android  bGOAL v1.0.9
+- iOS      bGOAL v1.0.9
+- Web      bGOAL v1.0.1
