@@ -8,7 +8,7 @@ To be more successfull reaching your goals, this tool was built to help you defi
 
 ## Platoforms & Versions
 | Platform | Version  |  Build   |    Date    |
-|---------:|----------|----------|------------|
+|----------|----------|----------|------------|
 | Android  | 1.0.9    |    130   | 2021/05/02 |
 | iOS      | 1.0.9    |    130   | 2021/05/02 |
 | Web      | 1.0.1    |    133   | 2021/05/02 |
