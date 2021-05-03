@@ -1,2 +1,3 @@
-# bgoal
-bGoal App Personal Planning
+# bGOAL
+bGoal App 
+Personal Planning
