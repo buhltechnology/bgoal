@@ -1,5 +1,5 @@
 # bGOAL App 
-bGOAL Application.
+bGOAL Application.  
 Copyright © 2021 Buhl Technology. All rights reserved.
 
 ![](https://www.bgoalapp.com/images/present_bgoal.png)
