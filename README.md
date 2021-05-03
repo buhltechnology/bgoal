@@ -5,7 +5,7 @@ Copyright © 2021 Buhl Technology. All rights reserved.
 ![](https://www.bgoalapp.com/images/present_bgoal.png)
 
 ## Description
-bGoal is a Personal Planning Service Application available in the several platforms and devices.
+bGoal is a Personal Planning Service Application available in the several platforms and devices.   
 To be more successfull reaching your goals, this tool was built to help you defining your goals, managing tasks and progress, and seeing the statistics and advances.
 
 ## Platoforms & Versions
