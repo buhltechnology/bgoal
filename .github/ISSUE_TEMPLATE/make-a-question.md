@@ -1,6 +1,6 @@
 ---
-name: Make a Comment
-about: Comment your experience
+name: Make a Question
+about: Ask us any question
 title: ''
 labels: ''
 assignees: ''
