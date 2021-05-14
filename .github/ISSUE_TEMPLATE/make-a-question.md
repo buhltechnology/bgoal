@@ -1,6 +1,6 @@
 ---
 name: Make a Question
-about: Ask us any question
+about: Ask any question
 title: ''
 labels: ''
 assignees: ''
