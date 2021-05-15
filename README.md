@@ -3,7 +3,7 @@ bGOAL Application.
 Copyright © 2021 Buhl Technology. All rights reserved.
 
 ![](https://www.bgoalapp.com/images/present_bgoal.png)
-[<img src="https://www.bgoalapp.com/images/present_bgoal.png">](http://www.bgoalapp.com) [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[<img src="https://www.bgoalapp.com/images/present_bgoal.png">](http://www.bgoalapp.com)
 
 ## Description
 bGoal is a Personal Planning Service Application available in the several platforms and devices.   
