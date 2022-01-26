@@ -1,6 +1,6 @@
 # bGOAL App 
 bGOAL Application.  
-Copyright © 2021 Buhl Technology. All rights reserved.
+Copyright © 2022 Buhl Technology. All rights reserved.
 
 [<img src="https://www.bgoalapp.com/images/present_bgoal.png">](http://www.bgoalapp.com)
 
@@ -11,7 +11,7 @@ To be more successfull reaching your goals, this tool was built to help you defi
 ## Platoforms & Versions
 | Platform | Version  |  Build   |    Date    |
 |----------|----------|----------|------------|
-| Android  | 1.0.9    |    164   | 2021/05/11 |
-| iOS      | 1.0.9    |    164   | 2021/05/11 |
-| Web      | 1.0.9    |    142   | 2021/05/11 |
+| Android  | 1.0.12   |     96   | 2022/01/26 |
+| iOS      | 1.0.12   |     96   | 2022/01/26 |
+| Web      | 1.0.10   |     99   | 2022/01/24 |
 
